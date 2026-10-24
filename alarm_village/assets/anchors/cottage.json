@@ -1,0 +1,81 @@
+{
+  "name": "cottage",
+  "canvas": [
+    160,
+    152
+  ],
+  "origin": "bottom_center",
+  "windows": [
+    [
+      47,
+      107
+    ],
+    [
+      113,
+      107
+    ],
+    [
+      80,
+      56
+    ]
+  ],
+  "door_lantern": [
+    97,
+    115
+  ],
+  "chimney": [
+    118,
+    8
+  ],
+  "fire_points": [
+    {
+      "x": 40,
+      "y": 66,
+      "appear_at": 0.12,
+      "size": 46,
+      "on_building": true
+    },
+    {
+      "x": 120,
+      "y": 62,
+      "appear_at": 0.22,
+      "size": 46,
+      "on_building": true
+    },
+    {
+      "x": 80,
+      "y": 104,
+      "appear_at": 0.34,
+      "size": 40,
+      "on_building": true
+    },
+    {
+      "x": 126,
+      "y": 134,
+      "appear_at": 0.48,
+      "size": 36,
+      "on_building": false
+    },
+    {
+      "x": 30,
+      "y": 138,
+      "appear_at": 0.56,
+      "size": 34,
+      "on_building": false
+    },
+    {
+      "x": 80,
+      "y": 140,
+      "appear_at": 0.62,
+      "size": 38,
+      "on_building": false
+    },
+    {
+      "x": 56,
+      "y": 136,
+      "appear_at": 0.66,
+      "size": 30,
+      "on_building": false
+    }
+  ]
+}
